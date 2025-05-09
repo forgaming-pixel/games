@@ -1,2 +1,2 @@
-# games
-play and earn 
+# GAMES
+Play and Earn 
